@@ -12,14 +12,14 @@ latest version: [v1.0.0](https://github.com/DD87686/YiffScraper-4.0-CLI/releases
 [![Issues Badge][issues-shield]][issues-url]
 [![Stars Badge][stars-shield]][stars-url]
 <!-- Issues Badge -->
-[issues-shield]: https://img.shields.io/github/issues/DD87686/Yiffscraper-4.0-CLI?style=flat&label=Issues&labelColor=001224&color=ff00cc
-[issues-url]: https://github.com/DD87686/Yiffscraper-4.0-CLI/issues
+[issues-shield]: https://img.shields.io/github/issues/DD87686/YiffScraper-4.0-CLI?style=flat&label=Issues&labelColor=001224&color=ff00cc
+[issues-url]: https://github.com/DD87686/YiffScraper-4.0-CLI/issues
 <!-- Stars Badge -->
-[stars-shield]: https://img.shields.io/github/stars/DD87686/Yiffscraper-4.0-CLI?style=flat&label=Stars&labelColor=001224&color=ff00cc
-[stars-url]: https://github.com/DD87686/Yiffscraper-4.0-CLI/stargazers
+[stars-shield]: https://img.shields.io/github/stars/DD87686/YiffScraper-4.0-CLI?style=flat&label=Stars&labelColor=001224&color=ff00cc
+[stars-url]: https://github.com/DD87686/YiffScraper-4.0-CLI/stargazers
 <!-- Downloads Badge -->
-[downloads-shield]: https://img.shields.io/github/downloads/DD87686/Yiffscraper-4.0-CLI/total.svg?style=flat&label=Downloads&labelColor=001224&color=ff00cc
-[downloads-url]: https://github.com/DD87686/Yiffscraper-4.0-CLI/releases/
+[downloads-shield]: https://img.shields.io/github/downloads/DD87686/YiffScraper-4.0-CLI/total.svg?style=flat&label=Downloads&labelColor=001224&color=ff00cc
+[downloads-url]: https://github.com/DD87686/YiffScraper-4.0-CLI/releases/
 
 
 # Features
