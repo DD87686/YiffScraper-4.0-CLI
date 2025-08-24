@@ -1,6 +1,9 @@
 # Yiffscraper-4.0-CLI
 a poorly coded scraper for e621 with authentication to download content which is behind authorization (cub) - CLI Version<br>
-latest version: None
+latest version: [v1.0.0](https://github.com/DD87686/YiffScraper-4.0-CLI/releases/tag/1.0.0)
+
+> [!NOTE]
+> Please refer to [this repo](https://github.com/DD87686/Yiffscraper-4.0/) for the GUI version.
 
 <img width="128" height="128" alt="YS4 icon" src="https://github.com/user-attachments/assets/032ec505-e4cb-4437-9853-e1c254d8f3ef" />
 
